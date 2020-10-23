@@ -72,3 +72,6 @@ Note that your code should replace “Dave” with the contents of your `first_n
 ## Finishing the exercise
 
 To complete this exercise, upload your changes to GitHub in your **own** Exercise 1 repository that you created using the GitHub Classroom link.
+
+## my comments
+everything is allright
